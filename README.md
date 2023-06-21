@@ -1,4 +1,4 @@
-# Code_python
+# Praticar Python
 Praticar códigos básicos de python de acordo com a didatica da escola de dados 
 # principais comandos do Git
 * git init
