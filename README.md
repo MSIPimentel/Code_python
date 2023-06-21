@@ -8,6 +8,5 @@ Praticar códigos básicos de python de acordo com a didatica da escola de dados
 * git push -u origin main
 * git log --oneline # verificar comentários
 
-* Atualizar repositório local
-git pull origin main 
+* Atualizar repositório local: git pull origin main 
 
