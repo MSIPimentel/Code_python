@@ -1,6 +1,8 @@
 # Praticar Python
 Praticar códigos básicos de python de acordo com a didatica da escola de dados 
 # principais comandos do Git
+* git config --global user.email <E-Mail>
+* git config --global user.name <User_git>
 * git init
 * git add <nome_arquivo>
 * git commit -m <Mensagem_tag_mod>
